@@ -5,6 +5,7 @@ public class MainClass {
         HelpingClass obj = new HelpingClass()
         println(obj.a)
         println("1")
+        println("2")
 
 }
 }

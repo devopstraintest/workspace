@@ -6,5 +6,6 @@ public class MainClass {
         println(obj.a)
         println("1");
         println("2");
+        println("3");
 }
 }

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d56223-c4d5-467e-8bfb-456c898c7b08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/training/collection/HelpingClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/training/collection/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/training/collection/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/helpingFile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/helpingFile.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/collection/mainFile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/mainFile.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +32,17 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="mainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.MainClass" />
       <module name="training" />
+      <option name="PROGRAM_PARAMETERS" value="test1,test2 test4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mainClass" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -53,5 +58,18 @@
       <updated>1571390186486</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

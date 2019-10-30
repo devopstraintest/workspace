@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99d56223-c4d5-467e-8bfb-456c898c7b08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/training/collection/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/training/collection/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/mainFile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/mainFile.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,7 @@
   <component name="ProjectId" id="1SN3NWpVzgkTeDvzDIs7gg7RxP7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/shared" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXPERIMENT_EEA/EEA/ans/ci" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

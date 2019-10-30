@@ -11,5 +11,6 @@ public class MainClass {
         println("Protocol: "+url.getProtocol());
         println("Host Name: "+url.getHost());
         println("Port Number: "+url.getPort());
+        println("test")
     }
 }

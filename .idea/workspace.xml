@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99d56223-c4d5-467e-8bfb-456c898c7b08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/collection/mainFile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/mainFile.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/helpingFile.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/helpingFile.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -118,7 +118,7 @@ class TestClass{
         EA_APPLICATIONS_TLP('ea-applications-tlp'),
         SYSTEM_PLATFORM_TLP('system-platform-tlp'),
         SQM_APPLICATIONS_TLP('sqm-applications-tlp'),
-        SQM_ENGINE_TLP('sqm-engine-tlp')
+        SQM_ENGINE_TLP('sqm-engine-tlpp')
 
         String name
 
